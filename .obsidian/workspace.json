@@ -11,10 +11,14 @@
             "id": "9c50f107ddf77dfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mapping a Web Application with Burp Suite.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mapping a Web Application with Burp Suite"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "9c50f107ddf77dfa",
   "lastOpenFiles": [
+    "Mapping a Web Application with Burp Suite.md",
     "Burp Suite – Target Tab and Site Map.md",
     "Burp Suite – Target Tab and Site Map.pdf",
     "Pasted image 20260724181304.png",
